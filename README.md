@@ -45,8 +45,7 @@ To track and visualize monthly personal financial performance with:
 
 ## 🔗 Dashboard Preview
 
-> *(Add your Tableau Public link here once published)*  
-> 👉 [View on Tableau Public](https://public.tableau.com/app/profile/yourprofile)
+> 👉 https://public.tableau.com/shared/HRCSDP687?:display_count=n&:origin=viz_share_link
 
 ---
 
